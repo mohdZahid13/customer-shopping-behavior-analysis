@@ -120,4 +120,4 @@ It is used for educational and analytical purposes.
 
 ## ⭐ Conclusion
 
-This project demonstrates an end-to-end data analytics workflow — from **data cleaning and SQL analysis to visualization and business insights**, making it a strong portfolio project for data analyst roles.
+This project demonstrates an end-to-end data analytics workflow — from **data cleaning and SQL analysis to visualization and business insights**.
